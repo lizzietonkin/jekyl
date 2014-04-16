@@ -10,7 +10,8 @@ title: Jekyll Test Site
 	<article>
 		<time>{{ post.date | date_to_string }}</time>
 		<h2>
-			<a href="{{ post.url }}" title="{{ post.url }}">{{ post.url }}</a>
+			<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.url }}">{{ post.url }}
+			</a>
 			
 		</h2>
 	</article>		
