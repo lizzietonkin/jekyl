@@ -9,3 +9,5 @@ project: project-1
 lorem ipsum
 
 ![my enoch cat](http://placekitten.com/300/300)
+
+{% include nav-projects.html %}
