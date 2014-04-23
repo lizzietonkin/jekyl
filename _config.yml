@@ -2,5 +2,7 @@
 # lizzietonkin.github.io/jekyl
 # lizzietonkin.github.io/jekyl
 baseurl: /jekyl
+markdown: kramdown
+
 
 
