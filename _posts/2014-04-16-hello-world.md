@@ -11,4 +11,3 @@ This is my cat:
 
 ![My Cat] (http://placekitten.com/300/300)
 
-{% include nav-projects.html %}
